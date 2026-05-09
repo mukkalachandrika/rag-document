@@ -1,0 +1,6 @@
+flask
+groq
+pymupdf
+faiss-cpu
+sentence-transformers
+numpy
